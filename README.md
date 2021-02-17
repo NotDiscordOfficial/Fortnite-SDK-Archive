@@ -6,4 +6,4 @@ If you have a SDK (public or not public). You can Send them to me on Discord (Sp
 
 # Contributors
 - [Mate](https://github.com/McMistrzYT)
-- [Brody] (https://github.com/brodyhello)
+- [Brody](https://github.com/brodyhello)
