@@ -5,6 +5,6 @@ If you have a SDK (public or not public). You can Send them to me on Discord (Sp
 
 # Contributors
 - [Mate - 1.11, 1.10, 1.8.0, and 4.1 SDK](https://github.com/McMistrzYT)
-- [Brody - 1.6.3 SDK](https://github.com/brodyhello)
+- [Twui/Sparmage - 1.6.3 SDK](https://github.com/Sparmage)
 - [Ender - 14.30 SDK](https://github.com/Ender-0001)
 - [Kemo - 15.40 SDK](https://github.com/kem0o)
